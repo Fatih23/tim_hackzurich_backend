@@ -4,7 +4,7 @@ This is the REST-API documentation for Joy created with swagger.
 
 ## Usage
 
-To use the swagger documentation, import the swagger.yaml into the Swagger Editor (editor.swagger.io)
+To use the swagger documentation, import the swagger.yaml into the Swagger Editor (http://editor.swagger.io)
 
 ## Important!
 
